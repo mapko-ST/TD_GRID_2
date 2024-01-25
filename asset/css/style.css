@@ -1,0 +1,40 @@
+.Block{
+    display:grid;
+    height: 500px;
+    width: 1000px;
+    color: white;
+  }
+div {
+  padding: 20px;
+  margin: 20px;
+}
+  .one{
+    background-color: #b03532;
+    grid-column-start: 1;
+  }
+  .two{
+    background-color: #33a8a5;
+    grid-column-start: 2;
+  }
+  .three{
+    background-color: #30997a;
+    grid-column-start: 3;
+  }
+  .four{
+    background-color: #6a478f;
+  }
+  .five{
+    background-color: #da6f2b;
+  }
+  .six{
+    background-color: #3d8bb1;
+  }
+  .seven{
+    background-color: #e03f3f;
+  }
+  .eight{
+    background-color: #59a627;
+  }
+  .nine{
+    background-color: #4464a1;
+  }
